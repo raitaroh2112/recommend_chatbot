@@ -5,6 +5,7 @@
 以下の一連の流れを行うアプリになります。
 
 つぶやきを投稿してもらう→その内容を感情解析する→感情に該当する楽曲の中からランダムに選択して、chat形式で回答する
+感情解析にはこちらを使用させていただきました。`Mizuiro-sakura/luke-japanese-large-sentiment-analysis-wrime`
 
 ## 工夫点
 
@@ -42,7 +43,7 @@
 - 楽曲データベースの自動生成・更新を行う
 - などなど、、、
 
-## 参考にさせていただいた記事
+## 引用・参考にさせていただいた記事
 
 - 感情エンジン https://huggingface.co/Mizuiro-sakura/luke-japanese-large-sentiment-analysis-wrime
 - chatbot のシステム https://qiita.com/Yu_unI1/items/53570f021363d9f57d4c
